@@ -1,0 +1,11 @@
+.paslaugos-section {
+  max-width: 600px;
+  margin: 20px auto;
+  padding: 0 16px;
+}
+
+.paslaugos-title {
+  text-align: center;
+  color: #34495e;
+  margin-bottom: 24px;
+}
